@@ -1,0 +1,4 @@
+com\search\app\SearchApplication.class
+com\search\app\controller\SearchRestController.class
+com\search\app\service\ISearchService.class
+com\search\app\service\SearchService.class
